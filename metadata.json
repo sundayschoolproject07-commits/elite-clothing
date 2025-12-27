@@ -1,0 +1,8 @@
+{
+  "name": "Zone J - Luxury Custom Tailoring",
+  "description": "A high-end, editorial e-commerce experience for a premium custom tailoring brand, featuring a minimal aesthetic, sophisticated typography, and a seamless shopping flow.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
